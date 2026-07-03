@@ -1,0 +1,103 @@
+[index.html](https://github.com/user-attachments/files/29640786/index.html)
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FSM Server</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: white;
+      text-align: center;
+    }
+
+    header {
+      padding: 80px 20px;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 18px;
+      opacity: 0.8;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 25px;
+      background: #3b82f6;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+
+    .btn:hover {
+      background: #2563eb;
+    }
+
+    section {
+      padding: 50px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.08);
+      padding: 20px;
+      border-radius: 12px;
+      margin-top: 20px;
+    }
+
+    footer {
+      padding: 30px;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>FSM Server</h1>
+  <p>Dein Gaming-Server – Community, Spaß & Action</p>
+  <a class="btn" href="#">Jetzt beitreten</a>
+</header>
+
+<section>
+  <h2>Über den Server</h2>
+  <div class="card">
+    <p>
+      Willkommen auf dem offiziellen FSM-Server! Hier erwartet dich eine aktive Community,
+      spannende Events und ein stabiles Spielerlebnis.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Features</h3>
+    <p>✔ 24/7 Online Server<br>
+       ✔ Freundliche Community<br>
+       ✔ Regelmäßige Updates<br>
+       ✔ Events & Belohnungen</p>
+  </div>
+
+  <div class="card">
+    <h3>Server IP</h3>
+    <p><strong>DEINE-IP-HIER-REIN</strong></p>
+  </div>
+</section>
+
+<footer>
+  © 2026 FSM Server – Alle Rechte vorbehalten
+</footer>
+
+</body>
+</html>
